@@ -1,0 +1,10 @@
+@media screen and (max-width:1200){
+    .navbar{
+        flex-direction: column;
+    }
+    .search {
+        display: flex;
+        align-items: center;
+        float: left;
+    }
+}
