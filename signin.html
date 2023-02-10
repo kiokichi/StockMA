@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/sty.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/utils.css">
+    <link rel="stylesheet" href="css/mobile.css">
+
+
+    <title>login page</title>
+</head>
+
+<body>
+    <nav class="navbar ">
+        <ul>
+            <div class="logo">
+                <a href="/">
+                    <img src="images/logo.png" alt="webpage logo">
+                </a>
+            </div>
+            <li><a href="signin.html">SignIn</a></li>
+            <li><a href="BeginnersGuide.html">Beginners Guide</a></li>
+            <li><a href="StockMarket.html">Stocks</a></li>
+        </ul>
+        <div class="search">
+            <form action="searchArticle.html" method="get">
+                <input type="text" name="query" placeholder="Article search">
+                <button class="btn">search</button>
+            </form>
+        </div>
+    </nav>
+
+    <div class="box">
+        <div class="containerLogin">
+            <span><a href="signup.html">new User?</a></span>
+            <header>Sign In</header>
+        </div>
+        <form>
+        <div class="input-feild">
+            <input type="text" class="input" placeholder="Username" required/>
+
+        </div>
+        <div class="input-feild">
+            <input type="password" class="input" placeholder="password" required/>
+        </div>
+        <div class="input-feild">
+            <input type="submit" class="submit" value="Login"/>
+        </div>
+        </form>
+        <div class="bottom">
+            <div class="left">
+                <input type="checkbox" id="check">
+                <label for="check">Remember me</label>
+            </div>
+            <div class="right">
+                <label><a href="#">Forgot Password?</a></label>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <footer class="flex-all-center">
+        <pre>&copy;All rights are reserved  </pre>
+    </footer>
+</body>
+
+</html>
