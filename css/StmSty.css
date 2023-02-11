@@ -5,7 +5,7 @@
 .main{
     display: flex;
     flex-direction: column;
-    background: rgb(226, 226, 226);
+    background: rgb(255, 254, 254);
     min-height: calc(100vh - 43px - 5vh);
 }
 .containersm{
@@ -18,7 +18,7 @@
     display: flex;
     flex-direction:row;
     column-gap: 20px;
-  color: rgb(71, 88, 88)e;
+  color: rgb(99, 99, 99)e;
 }
 .my-row img{
     display: inline;
@@ -31,8 +31,8 @@
 }
 hr{
     margin: 5px 0;
-    height: 2px;
-    background:  rgb(71, 88, 88);
+    height: 1px;
+    background: rgb(248, 243, 253);
 }
 .my-row p a{
     text-decoration: none;
