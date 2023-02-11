@@ -1,5 +1,6 @@
 :root {
-  --main-bg-color: #353232;
+  --main-bg-color: rgb(114, 113, 113)
+  ;
   --font1: 'Baloo Bhaina2', cursive;
   --font2: 'Roboto', sans-serif;
 
