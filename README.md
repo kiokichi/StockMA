@@ -22,4 +22,6 @@ Stable internet connection.
 
 ![IMG-20230222-WA0028](https://user-images.githubusercontent.com/118970264/223752451-39215058-c051-4bae-91b8-dc92ac818e92.jpg)
 
+![IMG-20230222-WA0029](https://user-images.githubusercontent.com/118970264/223752635-c6d4c210-9bb0-4643-bc9d-5ab2d6950869.jpg)
+
  
