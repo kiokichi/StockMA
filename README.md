@@ -19,7 +19,7 @@ StockMA is stock market analysis website. Where users can get overall informatio
 Stable internet connection.
 
 ## Screenshots
-![Uploading IMG-20230222-WA0028.jpg…]()
-![Uploading IMG-20230222-WA0028.jpg…]()
+
+![IMG-20230222-WA0028](https://user-images.githubusercontent.com/118970264/223752451-39215058-c051-4bae-91b8-dc92ac818e92.jpg)
 
  
