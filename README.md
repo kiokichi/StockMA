@@ -17,4 +17,7 @@ StockMA is stock market analysis website. Where users can get overall informatio
 
 ## Requirement
 Stable internet connection.
+
+## Screenshots
+![WhatsApp Image 2023-02-22 at 19 45 56](https://user-images.githubusercontent.com/118970264/223737507-177e2420-589d-4f23-91
  
