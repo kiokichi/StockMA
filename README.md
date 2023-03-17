@@ -8,7 +8,7 @@ StockMB is a project for the people who wish to take their first step into stock
 
 ## Azure services
 1.Azure Bot service  
-2.Azure text to speech
+2.Azure My SQL Database
 
 ## Authors
 @Kiran Kadganchi (https://github.com/kiokichi)
