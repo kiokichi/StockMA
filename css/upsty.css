@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins','sans-serif';
+}
+.card{
+    width: 100%;
+    padding-top: 8rem;
+    background-color: white;
+    background-image:url(images/background.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile-card{
+    background: #aa92b4;
+    text-align: center;
+    padding: 50px 90px;
+    color: #171717;
+    position: relative;
+    border-radius: 10%;
+}
+img{
+   width: 150px;
+   border-radius: 50%;
+   background: #fff;
+   padding: 6px;
+   margin-top: 30px;
+}
+input{
+    display: block;
+   box-sizing: border-box;
+   background: none;
+   color: #171717;
+   margin: 0 3em 2em 4em;
+   padding: 4px;
+   width: 220px;
+   height: 32px;
+   border: none;
+   border-bottom: 1px solid #171717;
+   font-weight: 400;
+   transition: 0.2s ease;
+}
+input:focus{
+  border-bottom: 2px solid #171717;
+  border-bottom-right-radius: 20px;
+  color: #171717;
+  transition: 0.2s ease;
+}
