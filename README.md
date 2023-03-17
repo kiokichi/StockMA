@@ -19,3 +19,8 @@ StockMB is a project for the people who wish to take their first step into stock
 ## Requirement
 Stable internet connection.
  
+## How to run this project
+1) Download this project from Git hub
+2) past this into C drive>>xampp>>htdocs
+3) now open xampp and start apachhe and MySql 
+4) now open browser and type localhost/final/index.html
