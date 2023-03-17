@@ -5,6 +5,7 @@ StockMB is a project for the people who wish to take their first step into stock
 1.HTML5
 2.CSS
 3.php
+4.SQL
 
 ## Azure services
 1.Azure Bot service  
